@@ -1,0 +1,35 @@
+[
+  {
+    "ID": 30001,
+    "ITEM_NAME": "노브헬멧",
+    "ITEM_DESCRIPTION": "방어력을 1올려는 헬멧",    
+    "ITEM_VALUETYPE": 1,
+    "ITEM_VALUE": 1,
+    "ITEM_PRICE": 300,
+    "ITEM_USETYPE": 1,
+    "ITEM_EQUIPTYPE": 1,
+    "ITEM_SLUG": "nov_helmet"
+  },
+  {
+    "ID": 30002,
+    "ITEM_NAME": "A포션",
+    "ITEM_DESCRIPTION": "체력을 10회복시켜주는 아이템",
+    "ITEM_VALUETYPE": 2,
+    "ITEM_VALUE": 10,
+    "ITEM_PRICE": 100,
+    "ITEM_USETYPE": 2,
+    "ITEM_EQUIPTYPE": 1,
+    "ITEM_SLUG": "a_potion"
+  },
+  {
+    "ID": 30003,
+    "ITEM_NAME": "강철방패",
+    "ITEM_DESCRIPTION": "방어력을 2올려주는 방패",
+    "ITEM_VALUETYPE": 1,
+    "ITEM_VALUE": 2,
+    "ITEM_PRICE": 500,
+    "ITEM_USETYPE": 1,
+    "ITEM_EQUIPTYPE": 2,
+    "ITEM_SLUG": "steal_shield"
+  }
+]
